@@ -1,0 +1,697 @@
+:: StoryTitle
+Into the Woods
+
+
+:: StoryData
+{
+  "ifid": "312021BD-9075-4987-B5C7-994765714F70",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "ACT I: Intro",
+  "zoom": 0.6
+}
+
+
+:: ACT I: Intro {"position":"2500,175","size":"100,100"}
+[[Car Ride]]
+
+
+
+:: ACT II: Waking Up Alone {"position":"2500,1375","size":"100,100"}
+[[Go left (Isaiah evidence)]] 
+[[Go right (Seb evidence)]] 
+[[Go forward (Kaya evidence)]] 
+[[Head to the car]] 
+
+
+:: ACT III: Reunions {"position":"2525,1825","size":"100,100"}
+[[Find Isaiah]]
+[[Find Sebastian]]
+[[Find Kaya]]
+[[Go It Alone]] 
+
+
+:: Abandon Poppy & Travel Alone {"position":"2325,2900","size":"100,100"}
+
+
+
+:: Abandon Poppy & Travel With Group (All Platonic) {"position":"2150,2900","size":"100,100"}
+
+
+
+:: Abandon Poppy & Travel With Group (Isaiah Romanced) {"position":"1500,3000","size":"100,100"}
+[[Companions Disappear & Can't Be Saved; You're Alone]] 
+
+
+:: Abandon Poppy & Travel With Group (Kaya Romanced) {"position":"1875,2975","size":"100,100"}
+[[Companions Disappear & Can't Be Saved; You're Alone]]
+
+
+:: Abandon Poppy & Travel With Group (Seb Romanced) {"position":"1725,2975","size":"100,100"}
+[[Companions Disappear & Can't Be Saved; You're Alone]] 
+
+
+:: Abandon Poppy & Travel With Isaiah (Platonic) {"position":"1500,2875","size":"100,100"}
+[[Isaiah Disappears; Can't Be Saved]]
+
+
+:: Abandon Poppy & Travel With Isaiah (Romanced) {"position":"1500,2750","size":"100,100"}
+[[Isaiah Disappears; Can't Be Saved]]
+
+
+:: Abandon Poppy & Travel With Kaya (Platonic) {"position":"1875,2850","size":"100,100"}
+[[Kaya Disappears; Can't Be Saved]]
+
+
+:: Abandon Poppy & Travel With Kaya (Romanced) {"position":"1875,2725","size":"100,100"}
+[[Kaya Disappears; Can't Be Saved]]
+
+
+:: Abandon Poppy & Travel With Seb (Platonic) {"position":"1725,2850","size":"100,100"}
+[[Seb Disappears; Can't Be Saved]]
+
+
+:: Abandon Poppy & Travel With Seb (Romanced) {"position":"1725,2725","size":"100,100"}
+[[Seb Disappears; Can't Be Saved]]
+
+
+:: Act IV: Poppy Reveal {"position":"2400,2725","size":"100,100"}
+[[Travel With Poppy]]
+[[Tell Her to Get Lost]]
+
+
+:: Antagonist Eliminates Ghost {"position":"1750,4150","size":"100,100"}
+[[Escaping Alone (Solo Route)]]
+[[Escaping Alone (Group Platonic)]]
+[[Escaping Alone (Romanced Kaya)]]
+[[Escaping Alone (Romanced Seb)]]
+[[Escaping Alone (Romanced Isaiah)]]
+[[Escaping Alone (Romanced Poppy)]]
+[[Escaping Alone (Manipulated Poppy)]]
+[[Escaping Alone (Rejected-Romanced Poppy)]]
+[[Escaping Alone (Rejected-Manipulated Poppy)]]
+
+
+:: Arrive at Camp {"position":"2500,475","size":"100,100"}
+* Banter with each character
+* No obvious narrator yet; slightly fourth wall breaky
+
+[[Gather Wood with Isaiah]] 
+[[Cook with Sebastian]] 
+[[Set Up Tents with Kaya]] 
+
+
+:: Car Ride {"position":"2500,325","size":"100,100"}
+
+* Banter with each character
+* 1-2 low stakes choices
+* Small affinity bump
+* No obvious narrator yet; slightly fourth wall breaky
+
+[[Arrive at Camp]] 
+
+
+:: Companions Disappear & Can't Be Saved; You're Alone {"position":"1775,3150","size":"100,100"}
+[[Poppy Reappears in Rage Mode; Tells You Her Intentions]]
+
+
+:: Companions Disappear; You're Alone With Poppy {"position":"3125,3150","size":"100,100"}
+[[Poppy Makes Her Intentions Known]]
+
+
+:: Cook with Sebastian {"position":"2500,625","size":"100,100"}
+* You offer to help cook with Seb
+* Banter with Seb
+* The top of the salt shaker comes off & all of the salt falls into the stew
+* Small choice to help him fish the salt out, cover it with other spices, tease him, etc. (The specific options don't matter too much as long as the stew isn't thrown out or fixed in the end as this will be important in Act IV. The player's choice here should also result in a large affinity increase or decrease.)
+* After the choice is made, the player can choose to help Kaya or Isaiah (if they haven't already) or eat.
+* No obvious narrator yet, but narration is increasingly fourth-wall breaky.
+
+[[Set Up Tents with Kaya]] (Conditional)
+[[Gather Wood with Isaiah]] (Conditional)
+[[Eat]] 
+
+
+:: Double Reject Poppy {"position":"1375,3300","size":"100,100"}
+[[You Died; Doubled Poppy Rejection]]
+
+
+:: END: Wtf, You Abandoned Your Friends? {"position":"3075,1450","size":"100,100"}
+
+
+
+:: Eat {"position":"2500,775","size":"100,100"}
+[[Ghost Stories]] 
+
+
+:: Escaping Alone (Group Platonic) {"position":"1875,4275","size":"100,100"}
+
+
+
+:: Escaping Alone (Manipulated Poppy) {"position":"1750,4525","size":"100,100"}
+
+
+
+:: Escaping Alone (Rejected-Manipulated Poppy) {"position":"1625,4525","size":"100,100"}
+
+
+
+:: Escaping Alone (Rejected-Romanced Poppy) {"position":"1875,4525","size":"100,100"}
+
+
+
+:: Escaping Alone (Romanced Isaiah) {"position":"1875,4400","size":"100,100"}
+
+
+
+:: Escaping Alone (Romanced Kaya) {"position":"1625,4275","size":"100,100"}
+
+
+
+:: Escaping Alone (Romanced Poppy) {"position":"1625,4400","size":"100,100"}
+
+
+
+:: Escaping Alone (Romanced Seb) {"position":"1750,4400","size":"100,100"}
+
+
+
+:: Escaping Alone (Solo Route) {"position":"1750,4275","size":"100,100"}
+
+
+
+:: Final Ghost Appearance (Alone with Poppy) {"position":"1750,3975","size":"100,100"}
+[[Antagonist Eliminates Ghost]]
+
+
+:: Final Ghost Confrontation (Group Survives) {"position":"2775,4125","size":"100,100"}
+
+
+
+:: Final Ghost Confrontation (Isaiah Survives) {"position":"3175,4125","size":"100,100"}
+
+
+
+:: Final Ghost Confrontation (Kaya Survives) {"position":"2975,4125","size":"100,100"}
+
+
+
+:: Final Ghost Confrontation (Seb Survives) {"position":"3375,4125","size":"100,100"}
+
+
+
+:: Find Isaiah {"position":"2175,2125","size":"100,100"}
+[[You & Isaiah Venture Alone]]
+[[You & Isaiah Find Kaya & Seb]]
+
+
+:: Find Kaya {"position":"2625,2075","size":"100,100"}
+[[You & Kaya Venture Alone]]
+[[You & Kaya Find Isaiah & Seb]]
+
+
+:: Find Sebastian {"position":"2400,1975","size":"100,100"}
+[[You & Seb Venture Alone]]
+[[You & Seb Find Kaya & Isaiah]]
+
+
+:: First Ghost Encounter {"position":"2525,1700","size":"100,100"}
+[[ACT III: Reunions]]
+
+
+:: Flirt With Poppy (Genuine) {"position":"3000,3425","size":"100,100"}
+[[Return to Camp With Romanced Poppy (Alone)]]
+
+[[Return to Camp With Romanced Poppy (Saved Group + Platonic)]]
+
+[[Return to Camp With Romanced Poppy (Saved Group + Romanced Kaya)]]
+[[Return to Camp With Romanced Poppy (Saved Kaya + Platonic)]]
+[[Return to Camp With Romanced Poppy (Saved Kaya + Romanced)]]
+
+[[Return to Camp With Romanced Poppy (Saved Group + Romanced Seb)]]
+[[Return to Camp With Romanced Poppy (Saved Seb + Platonic)]]
+[[Return to Camp With Romanced Poppy (Saved Seb + Romanced)]]
+
+[[Return to Camp With Romanced Poppy (Saved Group + Romanced Isaiah)]]
+[[Return to Camp With Romanced Poppy (Saved Isaiah + Platonic)]]
+[[Return to Camp With Romanced Poppy (Saved Isaiah + Romanced)]]
+
+
+:: Flirt With Poppy (Genuine) (Rejected Poppy) {"position":"1450,3450","size":"100,100"}
+[[Return to Camp With Rejected-Romanced Poppy (Alone)]]
+
+[[Return to Camp With Rejected-Romanced Poppy (Found Group + Platonic)]]
+
+[[Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Kaya)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Kaya + Platonic)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Kaya + Romanced)]]
+
+[[Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Seb)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Seb + Platonic)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Seb + Romanced)]]
+
+[[Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Isaiah)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Isaiah + Platonic)]]
+[[Return to Camp With Rejected-Romanced Poppy (Found Isaiah + Romanced)]]
+
+
+:: Flirt With Poppy (Lie) {"position":"3450,3425","size":"100,100"}
+[[Return to Camp With Manipulated Poppy (Alone)]]
+
+[[Return to Camp With Manipulated Poppy (Saved Group + Platonic)]]
+
+[[Return to Camp With Manipulated Poppy (Saved Group + Romanced Kaya)]]
+[[Return to Camp With Manipulated Poppy (Saved Kaya + Platonic)]]
+[[Return to Camp With Manipulated Poppy (Saved Kaya + Romanced)]]
+
+[[Return to Camp With Manipulated Poppy (Saved Group + Romanced Seb)]]
+[[Return to Camp With Manipulated Poppy (Saved Seb + Platonic)]]
+[[Return to Camp With Manipulated Poppy (Saved Seb + Romanced)]]
+
+[[Return to Camp With Manipulated Poppy (Saved Group + Romanced Isaiah)]]
+[[Return to Camp With Manipulated Poppy (Saved Isaiah + Platonic)]]
+[[Return to Camp With Manipulated Poppy (Saved Isaiah + Romanced)]]
+
+
+:: Flirt With Poppy (Lie) (Rejected Poppy) {"position":"2050,3400","size":"100,100"}
+[[Return to Camp With Rejected-Manipulated Poppy (Alone)]]
+
+[[Return to Camp With Rejected-Manipulated Poppy (FoundSaved Group + Platonic)]]
+
+[[Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Kaya)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Kaya + Platonic)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Kaya + Romanced)]]
+
+[[Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Seb)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Seb + Platonic)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Seb + Romanced)]]
+
+[[Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Isaiah)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Isaiah + Platonic)]]
+[[Return to Camp With Rejected-Manipulated Poppy (Found Isaiah + Romanced)]]
+
+
+:: Gather Wood with Isaiah {"position":"2350,625","size":"100,100"}
+* You offer to set up tents with Kaya
+* Banter with Isaiah + low stakes choice
+* Isaiah talks about their creative aspirations. The player has a choice to be supportive, skeptical, unsupportive, etc. (The player's choice here should result in a large affinity increase or decrease.)
+* After the choice is made, the player can choose to help Sebastian or Kaya (if they haven't already) or eat.
+* No obvious narrator yet, but narration is increasingly fourth-wall breaky.
+
+[[Cook with Sebastian]] (Conditional)
+[[Set Up Tents with Kaya]] (Conditional)
+[[Eat]] 
+
+
+:: Ghost Stories {"position":"2500,925","size":"100,100"}
+[[Group Photo]] 
+
+
+:: Go It Alone {"position":"2900,2250","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: Go forward (Kaya evidence) {"position":"2675,1450","size":"100,100"}
+[[Go left (Isaiah evidence)]] 
+[[Go right (Seb evidence)]] 
+[[Head to the car]] 
+[[First Ghost Encounter]]
+
+
+:: Go left (Isaiah evidence) {"position":"2250,1500","size":"100,100"}
+[[Go right (Seb evidence)]] 
+[[Go forward (Kaya evidence)]] 
+[[Head to the car]] 
+[[First Ghost Encounter]]
+
+
+:: Go right (Seb evidence) {"position":"2500,1525","size":"100,100"}
+[[Go left (Isaiah evidence)]] 
+[[Go forward (Kaya evidence)]] 
+[[Head to the car]] 
+[[First Ghost Encounter]]
+
+
+:: Go to Bed {"position":"2500,1225","size":"100,100"}
+[[ACT II: Waking Up Alone]] 
+
+
+:: Group Photo {"position":"2500,1075","size":"100,100"}
+[[Go to Bed]] 
+
+
+:: Head to the car {"position":"2925,1425","size":"100,100"}
+[[END: Wtf, You Abandoned Your Friends?]]
+
+
+:: Isaiah Disappears; Can Be Saved Later {"position":"3275,3125","size":"100,100"}
+[[Poppy Makes Her Intentions Known]]
+
+
+:: Isaiah Disappears; Can't Be Saved {"position":"1350,3150","size":"100,100"}
+[[Poppy Reappears in Rage Mode; Tells You Her Intentions]]
+
+
+:: Kaya Disappears; Can Be Saved Later {"position":"3475,3125","size":"100,100"}
+[[Poppy Makes Her Intentions Known]]
+
+
+:: Kaya Disappears; Can't Be Saved {"position":"2025,3150","size":"100,100"}
+[[Poppy Reappears in Rage Mode; Tells You Her Intentions]]
+
+
+:: Poppy Makes Her Intentions Known {"position":"3225,3300","size":"100,100"}
+[[Flirt With Poppy (Genuine)]]
+[[Flirt With Poppy (Lie)]]
+[[Reject Poppy]]
+
+
+:: Poppy Reappears in Rage Mode; Tells You Her Intentions {"position":"1575,3300","size":"100,100"}
+[[Flirt With Poppy (Genuine) (Rejected Poppy)]]
+[[Flirt With Poppy (Lie) (Rejected Poppy)]]
+[[Double Reject Poppy]]
+
+
+:: Reject Poppy {"position":"3475,3275","size":"100,100"}
+[[You Died; Poppy Rejection]]
+
+
+:: Return to Camp With Manipulated Poppy (Alone) {"position":"3200,3975","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Manipulated Poppy (Saved Group + Platonic) {"position":"3650,3975","size":"100,100"}
+
+
+
+:: Return to Camp With Manipulated Poppy (Saved Group + Romanced Isaiah) {"position":"3475,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Group + Romanced Kaya) {"position":"3625,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Group + Romanced Seb) {"position":"3325,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Isaiah + Platonic) {"position":"3475,3800","size":"100,100"}
+[[Final Ghost Confrontation (Isaiah Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Isaiah + Romanced) {"position":"3475,3550","size":"100,100"}
+[[Final Ghost Confrontation (Isaiah Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Kaya + Platonic) {"position":"3625,3800","size":"100,100"}
+[[Final Ghost Confrontation (Kaya Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Kaya + Romanced) {"position":"3625,3550","size":"100,100"}
+[[Final Ghost Confrontation (Kaya Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Seb + Platonic) {"position":"3325,3800","size":"100,100"}
+[[Final Ghost Confrontation (Seb Survives)]] 
+
+
+:: Return to Camp With Manipulated Poppy (Saved Seb + Romanced) {"position":"3325,3550","size":"100,100"}
+[[Final Ghost Confrontation (Seb Survives)]] 
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Alone) {"position":"2350,3725","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Isaiah) {"position":"2175,3775","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Kaya) {"position":"2175,3525","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Group + Romanced Seb) {"position":"2175,3650","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Isaiah + Platonic) {"position":"1925,3775","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Isaiah + Romanced) {"position":"2050,3900","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Kaya + Platonic) {"position":"1925,3525","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Kaya + Romanced) {"position":"2050,3650","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Seb + Platonic) {"position":"1925,3650","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (Found Seb + Romanced) {"position":"2050,3775","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Manipulated Poppy (FoundSaved Group + Platonic) {"position":"2050,3525","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Alone) {"position":"1175,3750","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Group + Platonic) {"position":"1175,3625","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Isaiah) {"position":"1475,3700","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Kaya) {"position":"1325,3700","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Group + Romanced Seb) {"position":"1625,3700","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Isaiah + Platonic) {"position":"1475,3825","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Isaiah + Romanced) {"position":"1475,3575","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Kaya + Platonic) {"position":"1325,3825","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Kaya + Romanced) {"position":"1325,3575","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Seb + Platonic) {"position":"1625,3825","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Rejected-Romanced Poppy (Found Seb + Romanced) {"position":"1625,3575","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]]
+
+
+:: Return to Camp With Romanced Poppy (Alone) {"position":"2600,3775","size":"100,100"}
+[[Final Ghost Appearance (Alone with Poppy)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Group + Platonic) {"position":"2700,3550","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Group + Romanced Isaiah) {"position":"3000,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Group + Romanced Kaya) {"position":"3125,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Group + Romanced Seb) {"position":"2875,3675","size":"100,100"}
+[[Final Ghost Confrontation (Group Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Isaiah + Platonic) {"position":"3000,3800","size":"100,100"}
+[[Final Ghost Confrontation (Isaiah Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Isaiah + Romanced) {"position":"3000,3550","size":"100,100"}
+[[Final Ghost Confrontation (Isaiah Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Kaya + Platonic) {"position":"3125,3800","size":"100,100"}
+[[Final Ghost Confrontation (Kaya Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Kaya + Romanced) {"position":"3125,3550","size":"100,100"}
+[[Final Ghost Confrontation (Kaya Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Seb + Platonic) {"position":"2875,3800","size":"100,100"}
+[[Final Ghost Confrontation (Seb Survives)]] 
+
+
+:: Return to Camp With Romanced Poppy (Saved Seb + Romanced) {"position":"2875,3550","size":"100,100"}
+[[Final Ghost Confrontation (Seb Survives)]] 
+
+
+:: Seb Disappears; Can Be Saved Later {"position":"2875,3150","size":"100,100"}
+[[Poppy Makes Her Intentions Known]]
+
+
+:: Seb Disappears; Can't Be Saved {"position":"1575,3150","size":"100,100"}
+[[Poppy Reappears in Rage Mode; Tells You Her Intentions]]
+
+
+:: Second Ghost Appearance {"position":"2400,2475","size":"100,100"}
+[[You Died]]
+[[You Survive]]
+
+
+:: Set Up Tents with Kaya {"position":"2650,625","size":"100,100"}
+* You offer to set up tents with Kaya
+* Banter with Kaya + low stakes choice
+* Kaya talks about their belief in ghosts. The player has a choice to be supportive, skeptical, unsupportive, etc. (The player's choice here should result in a large affinity increase or decrease.)
+* After the choice is made, the player can choose to help Sebastian or Isaiah (if they haven't already) or eat.
+* No obvious narrator yet, but narration is increasingly fourth-wall breaky.
+
+[[Cook with Sebastian]] (Conditional)
+[[Gather Wood with Isaiah]] (Conditional)
+[[Eat]] 
+
+
+:: Tell Her to Get Lost {"position":"2150,2625","size":"100,100"}
+[[Abandon Poppy & Travel With Kaya (Romanced)]]
+[[Abandon Poppy & Travel With Kaya (Platonic)]]
+[[Abandon Poppy & Travel With Group (Kaya Romanced)]]
+
+[[Abandon Poppy & Travel With Seb (Romanced)]]
+[[Abandon Poppy & Travel With Seb (Platonic)]]
+[[Abandon Poppy & Travel With Group (Seb Romanced)]]
+
+[[Abandon Poppy & Travel With Isaiah (Romanced)]]
+[[Abandon Poppy & Travel With Isaiah (Platonic)]]
+[[Abandon Poppy & Travel With Group (Isaiah Romanced)]]
+
+[[Abandon Poppy & Travel Alone]]
+
+[[Abandon Poppy & Travel With Group (All Platonic)]]
+
+
+:: Travel With Poppy {"position":"2650,2625","size":"100,100"}
+[[You Travel With Poppy & Kaya (Romanced)]]
+[[You Travel With Poppy & Kaya (Platonic)]]
+[[You Travel With Poppy & Group (Kaya Romanced)]]
+
+[[You Travel With Poppy & Seb (Romanced)]]
+[[You Travel With Poppy & Seb (Platonic)]]
+[[You Travel With Poppy & Group (Seb Romanced)]]
+
+[[You Travel With Poppy & Isaiah (Romanced)]]
+[[You Travel With Poppy & Isaiah (Platonic)]]
+[[You Travel With Poppy & Group (Isaiah Romanced)]]
+
+[[You Travel With Poppy Alone]]
+
+[[You Travel With Poppy & Group (All Platonic)]]
+
+
+:: You & Isaiah Find Kaya & Seb {"position":"2250,2275","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You & Isaiah Venture Alone {"position":"2075,2275","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You & Kaya Find Isaiah & Seb {"position":"2700,2225","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You & Kaya Venture Alone {"position":"2550,2225","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You & Seb Find Kaya & Isaiah {"position":"2475,2125","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You & Seb Venture Alone {"position":"2325,2125","size":"100,100"}
+[[Second Ghost Appearance]]
+
+
+:: You Died {"position":"2675,2475","size":"100,100"}
+
+
+
+:: You Died; Doubled Poppy Rejection {"position":"1250,3300","size":"100,100"}
+
+
+
+:: You Died; Poppy Rejection {"position":"3625,3275","size":"100,100"}
+
+
+
+:: You Survive {"position":"2400,2600","size":"100,100"}
+[[Act IV: Poppy Reveal]]
+
+
+:: You Travel With Poppy & Group (All Platonic) {"position":"2775,2850","size":"100,100"}
+
+
+
+:: You Travel With Poppy & Group (Isaiah Romanced) {"position":"3175,3000","size":"100,100"}
+[[Companions Disappear; You're Alone With Poppy]]
+
+
+:: You Travel With Poppy & Group (Kaya Romanced) {"position":"3375,3000","size":"100,100"}
+[[Companions Disappear; You're Alone With Poppy]]
+
+
+:: You Travel With Poppy & Group (Seb Romanced) {"position":"3025,3000","size":"100,100"}
+[[Companions Disappear; You're Alone With Poppy]]
+
+
+:: You Travel With Poppy & Isaiah (Platonic) {"position":"3175,2850","size":"100,100"}
+[[Isaiah Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy & Isaiah (Romanced) {"position":"3175,2700","size":"100,100"}
+[[Isaiah Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy & Kaya (Platonic) {"position":"3375,2700","size":"100,100"}
+[[Kaya Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy & Kaya (Romanced) {"position":"3375,2850","size":"100,100"}
+[[Kaya Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy & Seb (Platonic) {"position":"3025,2850","size":"100,100"}
+[[Seb Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy & Seb (Romanced) {"position":"3025,2700","size":"100,100"}
+[[Seb Disappears; Can Be Saved Later]]
+
+
+:: You Travel With Poppy Alone {"position":"2600,2850","size":"100,100"}
+
